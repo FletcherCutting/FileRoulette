@@ -1,0 +1,11 @@
+pastebin.com:
+  generate:
+    url: https://pastebin.com/raw/
+    chars: abcdefghijklmnopqrstuvqxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+    length: 8
+
+justpaste.it:
+  generate:
+    url: https://justpaste.it/
+    chars: abcdefghijklmnopqrstuvqxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+    length: 5
